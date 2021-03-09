@@ -1,0 +1,2077 @@
+listing_id,reviewer_id,sentiment,weight
+(L) 12351,David_6343345,Positive,2
+(L) 360141,David_6343345,Positive,2
+(L) 1106059,David_6343345,Positive,2
+(L) 2320694,David_6343345,Positive,2
+(L) 3657826,David_6343345,Negative,1
+(L) 4857085,David_6343345,Positive,2
+(L) 6939281,David_6343345,Positive,2
+(L) 7355414,David_6343345,Positive,2
+(L) 7923071,David_6343345,Negative,1
+(L) 9116265,David_6343345,Positive,2
+(L) 9245388,David_6343345,Negative,1
+(L) 9245388,David_6343345,Negative,1
+(L) 9780282,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Negative,1
+(L) 10295733,David_6343345,Positive,2
+(L) 10995325,David_6343345,Positive,2
+(L) 16353148,David_6343345,Negative,1
+(L) 17175171,David_6343345,Negative,1
+(L) 17389986,David_6343345,Negative,1
+(L) 17703795,David_6343345,Negative,1
+(L) 19878627,David_6343345,Negative,1
+(L) 19878627,David_6343345,Negative,1
+(L) 986246,Ken_39397787,Negative,1
+(L) 4624297,Ken_39397787,Positive,2
+(L) 4876374,Ken_39397787,Negative,1
+(L) 5580910,Ken_39397787,Negative,1
+(L) 8829966,Ken_39397787,Negative,1
+(L) 10928947,Ken_39397787,Negative,1
+(L) 10928947,Ken_39397787,Positive,2
+(L) 10928947,Ken_39397787,Negative,1
+(L) 10928947,Ken_39397787,Positive,2
+(L) 10928947,Ken_39397787,Negative,1
+(L) 10928947,Ken_39397787,Positive,2
+(L) 10928947,Ken_39397787,Negative,1
+(L) 11311097,Ken_39397787,Negative,1
+(L) 11480581,Ken_39397787,Positive,2
+(L) 11480581,Ken_39397787,Positive,2
+(L) 11480581,Ken_39397787,Positive,2
+(L) 11480581,Ken_39397787,Negative,1
+(L) 11480581,Ken_39397787,Positive,2
+(L) 11480581,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Positive,2
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Positive,2
+(L) 12434800,Ken_39397787,Positive,2
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 12434800,Ken_39397787,Negative,1
+(L) 16393182,Ken_39397787,Positive,2
+(L) 16598911,Ken_39397787,Positive,2
+(L) 16598911,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Negative,1
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Positive,2
+(L) 19142277,Ken_39397787,Negative,1
+(L) 23889225,Ken_39397787,Negative,1
+(L) 85331,Paul_77645251,Positive,2
+(L) 1853179,Paul_77645251,Positive,2
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Positive,2
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Negative,1
+(L) 3877598,Paul_77645251,Positive,2
+(L) 3877598,Paul_77645251,Positive,2
+(L) 3877598,Paul_77645251,Negative,1
+(L) 7721515,Paul_77645251,Negative,1
+(L) 11956630,Paul_77645251,Positive,2
+(L) 12044261,Paul_77645251,Negative,1
+(L) 12044261,Paul_77645251,Positive,2
+(L) 12044261,Paul_77645251,Negative,1
+(L) 12044261,Paul_77645251,Positive,2
+(L) 12571143,Paul_77645251,Negative,1
+(L) 12571143,Paul_77645251,Positive,2
+(L) 12571143,Paul_77645251,Negative,1
+(L) 12571143,Paul_77645251,Positive,2
+(L) 12571143,Paul_77645251,Negative,1
+(L) 12571143,Paul_77645251,Negative,1
+(L) 12571143,Paul_77645251,Negative,1
+(L) 15665121,Paul_77645251,Positive,2
+(L) 16327927,Paul_77645251,Negative,1
+(L) 17016465,Paul_77645251,Positive,2
+(L) 17032864,Paul_77645251,Positive,2
+(L) 17032864,Paul_77645251,Negative,1
+(L) 19317454,Paul_77645251,Positive,2
+(L) 19317454,Paul_77645251,Positive,2
+(L) 19317454,Paul_77645251,Negative,1
+(L) 20460589,Paul_77645251,Negative,1
+(L) 21301293,Paul_77645251,Negative,1
+(L) 21774466,Paul_77645251,Positive,2
+(L) 23048850,Paul_77645251,Negative,1
+(L) 23469623,Paul_77645251,Positive,2
+(L) 23469623,Paul_77645251,Negative,1
+(L) 25267231,Paul_77645251,Negative,1
+(L) 25685201,Paul_77645251,Positive,2
+(L) 745024,Patrick_68447360,Negative,1
+(L) 745024,Patrick_68447360,Negative,1
+(L) 745024,Patrick_68447360,Negative,1
+(L) 2561206,Patrick_68447360,Negative,1
+(L) 6927072,Patrick_68447360,Negative,1
+(L) 8461067,Patrick_68447360,Positive,2
+(L) 8575021,Patrick_68447360,Negative,1
+(L) 9928529,Patrick_68447360,Negative,1
+(L) 9928529,Patrick_68447360,Positive,2
+(L) 11554332,Patrick_68447360,Positive,2
+(L) 12280403,Patrick_68447360,Negative,1
+(L) 12878847,Patrick_68447360,Positive,2
+(L) 13282080,Patrick_68447360,Positive,2
+(L) 13423415,Patrick_68447360,Positive,2
+(L) 13941742,Patrick_68447360,Negative,1
+(L) 13941742,Patrick_68447360,Positive,2
+(L) 13941742,Patrick_68447360,Positive,2
+(L) 14019426,Patrick_68447360,Negative,1
+(L) 14019426,Patrick_68447360,Negative,1
+(L) 14019426,Patrick_68447360,Negative,1
+(L) 14475170,Patrick_68447360,Positive,2
+(L) 14475170,Patrick_68447360,Positive,2
+(L) 14475170,Patrick_68447360,Positive,2
+(L) 14475170,Patrick_68447360,Positive,2
+(L) 14475170,Patrick_68447360,Positive,2
+(L) 15398262,Patrick_68447360,Positive,2
+(L) 15398262,Patrick_68447360,Negative,1
+(L) 15398262,Patrick_68447360,Positive,2
+(L) 15398262,Patrick_68447360,Positive,2
+(L) 15398262,Patrick_68447360,Positive,2
+(L) 15398262,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Negative,1
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Negative,1
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Negative,1
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Negative,1
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16150505,Patrick_68447360,Positive,2
+(L) 16371015,Patrick_68447360,Negative,1
+(L) 16432212,Patrick_68447360,Negative,1
+(L) 20666669,Patrick_68447360,Positive,2
+(L) 20999406,Patrick_68447360,Positive,2
+(L) 21937462,Patrick_68447360,Positive,2
+(L) 22110258,Patrick_68447360,Positive,2
+(L) 23673439,Patrick_68447360,Negative,1
+(L) 23673439,Patrick_68447360,Positive,2
+(L) 25895326,Patrick_68447360,Negative,1
+(L) 304835,David_78093968,Positive,2
+(L) 686805,David_78093968,Positive,2
+(L) 3013026,David_78093968,Positive,2
+(L) 3201626,David_78093968,Positive,2
+(L) 4766604,David_78093968,Positive,2
+(L) 4766604,David_78093968,Negative,1
+(L) 4766604,David_78093968,Negative,1
+(L) 4776738,David_78093968,Positive,2
+(L) 5993432,David_78093968,Positive,2
+(L) 5993432,David_78093968,Negative,1
+(L) 5993432,David_78093968,Negative,1
+(L) 5993432,David_78093968,Negative,1
+(L) 5993432,David_78093968,Negative,1
+(L) 5993432,David_78093968,Negative,1
+(L) 5993432,David_78093968,Positive,2
+(L) 7054719,David_78093968,Positive,2
+(L) 8292666,David_78093968,Negative,1
+(L) 8317766,David_78093968,Negative,1
+(L) 8317766,David_78093968,Negative,1
+(L) 8317766,David_78093968,Negative,1
+(L) 12800606,David_78093968,Positive,2
+(L) 13210097,David_78093968,Negative,1
+(L) 13210097,David_78093968,Negative,1
+(L) 13210097,David_78093968,Negative,1
+(L) 13210097,David_78093968,Negative,1
+(L) 13210097,David_78093968,Negative,1
+(L) 13550197,David_78093968,Positive,2
+(L) 14603132,David_78093968,Negative,1
+(L) 15825979,David_78093968,Negative,1
+(L) 15825979,David_78093968,Positive,2
+(L) 15825979,David_78093968,Positive,2
+(L) 15825979,David_78093968,Positive,2
+(L) 16953121,David_78093968,Positive,2
+(L) 18163567,David_78093968,Positive,2
+(L) 19420826,David_78093968,Negative,1
+(L) 19420826,David_78093968,Negative,1
+(L) 19420826,David_78093968,Negative,1
+(L) 20372066,David_78093968,Negative,1
+(L) 21639809,David_78093968,Positive,2
+(L) 21639809,David_78093968,Negative,1
+(L) 22016584,David_78093968,Positive,2
+(L) 23045093,David_78093968,Positive,2
+(L) 23045093,David_78093968,Positive,2
+(L) 23567299,David_78093968,Positive,2
+(L) 23567299,David_78093968,Negative,1
+(L) 652063,Byron_150884075,Negative,1
+(L) 652063,Byron_150884075,Negative,1
+(L) 652063,Byron_150884075,Negative,1
+(L) 652063,Byron_150884075,Negative,1
+(L) 15501219,Byron_150884075,Negative,1
+(L) 15501219,Byron_150884075,Positive,2
+(L) 18739313,Byron_150884075,Negative,1
+(L) 19025923,Byron_150884075,Positive,2
+(L) 19025923,Byron_150884075,Positive,2
+(L) 19025923,Byron_150884075,Positive,2
+(L) 20141478,Byron_150884075,Negative,1
+(L) 20141478,Byron_150884075,Positive,2
+(L) 20141478,Byron_150884075,Negative,1
+(L) 20141478,Byron_150884075,Positive,2
+(L) 20142826,Byron_150884075,Positive,2
+(L) 22094539,Byron_150884075,Negative,1
+(L) 22094539,Byron_150884075,Negative,1
+(L) 22603795,Byron_150884075,Negative,1
+(L) 23132874,Byron_150884075,Positive,2
+(L) 23132874,Byron_150884075,Positive,2
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Positive,2
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Positive,2
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 23528360,Byron_150884075,Negative,1
+(L) 24517938,Byron_150884075,Negative,1
+(L) 24517938,Byron_150884075,Positive,2
+(L) 25136313,Byron_150884075,Negative,1
+(L) 25749889,Byron_150884075,Negative,1
+(L) 389876,Wayne & Kate_980703,Negative,1
+(L) 426879,Wayne & Kate_980703,Positive,2
+(L) 869520,Wayne & Kate_980703,Negative,1
+(L) 869520,Wayne & Kate_980703,Positive,2
+(L) 1668941,Wayne & Kate_980703,Positive,2
+(L) 1714235,Wayne & Kate_980703,Positive,2
+(L) 1910165,Wayne & Kate_980703,Negative,1
+(L) 1949398,Wayne & Kate_980703,Positive,2
+(L) 1949398,Wayne & Kate_980703,Negative,1
+(L) 1966675,Wayne & Kate_980703,Negative,1
+(L) 1966675,Wayne & Kate_980703,Negative,1
+(L) 1966675,Wayne & Kate_980703,Negative,1
+(L) 3265015,Wayne & Kate_980703,Negative,1
+(L) 4551693,Wayne & Kate_980703,Negative,1
+(L) 4695350,Wayne & Kate_980703,Positive,2
+(L) 4755217,Wayne & Kate_980703,Negative,1
+(L) 5014943,Wayne & Kate_980703,Positive,2
+(L) 5126717,Wayne & Kate_980703,Positive,2
+(L) 8524883,Wayne & Kate_980703,Positive,2
+(L) 8524883,Wayne & Kate_980703,Negative,1
+(L) 8524883,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Negative,1
+(L) 9188113,Wayne & Kate_980703,Positive,2
+(L) 9190138,Wayne & Kate_980703,Positive,2
+(L) 9452970,Wayne & Kate_980703,Negative,1
+(L) 2093730,Grahame_26701678,Negative,1
+(L) 2243800,Grahame_26701678,Positive,2
+(L) 3364972,Grahame_26701678,Positive,2
+(L) 3743191,Grahame_26701678,Negative,1
+(L) 3743191,Grahame_26701678,Negative,1
+(L) 3743191,Grahame_26701678,Negative,1
+(L) 3743191,Grahame_26701678,Positive,2
+(L) 3743191,Grahame_26701678,Negative,1
+(L) 3743191,Grahame_26701678,Positive,2
+(L) 3743191,Grahame_26701678,Negative,1
+(L) 4721317,Grahame_26701678,Negative,1
+(L) 6438273,Grahame_26701678,Negative,1
+(L) 6438273,Grahame_26701678,Positive,2
+(L) 7521604,Grahame_26701678,Negative,1
+(L) 7521604,Grahame_26701678,Negative,1
+(L) 8991803,Grahame_26701678,Negative,1
+(L) 9245388,Grahame_26701678,Positive,2
+(L) 9245388,Grahame_26701678,Negative,1
+(L) 9245388,Grahame_26701678,Positive,2
+(L) 9245388,Grahame_26701678,Positive,2
+(L) 9245388,Grahame_26701678,Positive,2
+(L) 9245388,Grahame_26701678,Negative,1
+(L) 9245388,Grahame_26701678,Positive,2
+(L) 10106158,Grahame_26701678,Positive,2
+(L) 10211390,Grahame_26701678,Negative,1
+(L) 10211390,Grahame_26701678,Negative,1
+(L) 10211390,Grahame_26701678,Negative,1
+(L) 10211390,Grahame_26701678,Positive,2
+(L) 10211390,Grahame_26701678,Negative,1
+(L) 12810756,Grahame_26701678,Positive,2
+(L) 12810756,Grahame_26701678,Negative,1
+(L) 12810756,Grahame_26701678,Positive,2
+(L) 15167430,Grahame_26701678,Negative,1
+(L) 16987558,Grahame_26701678,Positive,2
+(L) 17275276,Grahame_26701678,Positive,2
+(L) 17275276,Grahame_26701678,Negative,1
+(L) 21940524,Grahame_26701678,Positive,2
+(L) 21940524,Grahame_26701678,Negative,1
+(L) 21940524,Grahame_26701678,Positive,2
+(L) 21940524,Grahame_26701678,Negative,1
+(L) 1060458,Lisa_10572577,Negative,1
+(L) 1349941,Lisa_10572577,Negative,1
+(L) 1349941,Lisa_10572577,Positive,2
+(L) 1349941,Lisa_10572577,Negative,1
+(L) 2142898,Lisa_10572577,Positive,2
+(L) 2546323,Lisa_10572577,Positive,2
+(L) 4002622,Lisa_10572577,Negative,1
+(L) 4464899,Lisa_10572577,Positive,2
+(L) 4521519,Lisa_10572577,Positive,2
+(L) 4590927,Lisa_10572577,Negative,1
+(L) 5144118,Lisa_10572577,Negative,1
+(L) 5185720,Lisa_10572577,Negative,1
+(L) 7423995,Lisa_10572577,Positive,2
+(L) 8332544,Lisa_10572577,Negative,1
+(L) 8332544,Lisa_10572577,Positive,2
+(L) 8332544,Lisa_10572577,Negative,1
+(L) 8332544,Lisa_10572577,Negative,1
+(L) 8461998,Lisa_10572577,Positive,2
+(L) 8871394,Lisa_10572577,Positive,2
+(L) 9097926,Lisa_10572577,Positive,2
+(L) 9945151,Lisa_10572577,Positive,2
+(L) 9945151,Lisa_10572577,Negative,1
+(L) 10479956,Lisa_10572577,Positive,2
+(L) 11084973,Lisa_10572577,Negative,1
+(L) 11516323,Lisa_10572577,Positive,2
+(L) 12497257,Lisa_10572577,Positive,2
+(L) 13675327,Lisa_10572577,Positive,2
+(L) 13675327,Lisa_10572577,Negative,1
+(L) 14377918,Lisa_10572577,Positive,2
+(L) 15500733,Lisa_10572577,Positive,2
+(L) 17763675,Lisa_10572577,Negative,1
+(L) 19142277,Lisa_10572577,Positive,2
+(L) 19142277,Lisa_10572577,Positive,2
+(L) 22066434,Lisa_10572577,Positive,2
+(L) 22066434,Lisa_10572577,Positive,2
+(L) 22295354,Lisa_10572577,Positive,2
+(L) 22972932,Lisa_10572577,Positive,2
+(L) 2093730,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Negative,1
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Positive,2
+(L) 10860967,Sione_43861095,Negative,1
+(L) 11263845,Sione_43861095,Negative,1
+(L) 11263845,Sione_43861095,Negative,1
+(L) 11263845,Sione_43861095,Negative,1
+(L) 12503272,Sione_43861095,Positive,2
+(L) 8506353,Keith_169191690,Negative,1
+(L) 10384715,Keith_169191690,Positive,2
+(L) 15360879,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Positive,2
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Negative,1
+(L) 16548266,Keith_169191690,Negative,1
+(L) 18762366,Keith_169191690,Positive,2
+(L) 18762366,Keith_169191690,Positive,2
+(L) 18762366,Keith_169191690,Negative,1
+(L) 18762366,Keith_169191690,Negative,1
+(L) 18762366,Keith_169191690,Negative,1
+(L) 18762366,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 18773556,Keith_169191690,Negative,1
+(L) 22799007,Keith_169191690,Positive,2
+(L) 8955421,Ennis_136852553,Negative,1
+(L) 8955421,Ennis_136852553,Positive,2
+(L) 14159043,Ennis_136852553,Positive,2
+(L) 14224677,Ennis_136852553,Negative,1
+(L) 16609607,Ennis_136852553,Positive,2
+(L) 21016099,Ennis_136852553,Positive,2
+(L) 21195156,Ennis_136852553,Negative,1
+(L) 21253393,Ennis_136852553,Negative,1
+(L) 21324052,Ennis_136852553,Positive,2
+(L) 21384244,Ennis_136852553,Positive,2
+(L) 21384244,Ennis_136852553,Negative,1
+(L) 21830134,Ennis_136852553,Negative,1
+(L) 21971426,Ennis_136852553,Positive,2
+(L) 22124010,Ennis_136852553,Positive,2
+(L) 22124010,Ennis_136852553,Negative,1
+(L) 22124010,Ennis_136852553,Positive,2
+(L) 22124010,Ennis_136852553,Negative,1
+(L) 22124010,Ennis_136852553,Positive,2
+(L) 22124010,Ennis_136852553,Negative,1
+(L) 22124010,Ennis_136852553,Positive,2
+(L) 22124010,Ennis_136852553,Negative,1
+(L) 22124010,Ennis_136852553,Positive,2
+(L) 22367341,Ennis_136852553,Positive,2
+(L) 23083327,Ennis_136852553,Negative,1
+(L) 23095433,Ennis_136852553,Negative,1
+(L) 23363451,Ennis_136852553,Negative,1
+(L) 23437867,Ennis_136852553,Positive,2
+(L) 23967444,Ennis_136852553,Negative,1
+(L) 23967444,Ennis_136852553,Positive,2
+(L) 24523909,Ennis_136852553,Negative,1
+(L) 24808489,Ennis_136852553,Negative,1
+(L) 25064826,Ennis_136852553,Positive,2
+(L) 25709250,Ennis_136852553,Negative,1
+(L) 28146117,Ennis_136852553,Positive,2
+(L) 619474,Roger_52492105,Positive,2
+(L) 1903284,Roger_52492105,Negative,1
+(L) 2089811,Roger_52492105,Positive,2
+(L) 3989395,Roger_52492105,Negative,1
+(L) 4759609,Roger_52492105,Positive,2
+(L) 7132426,Roger_52492105,Positive,2
+(L) 8489178,Roger_52492105,Positive,2
+(L) 9239802,Roger_52492105,Positive,2
+(L) 9519433,Roger_52492105,Negative,1
+(L) 9519433,Roger_52492105,Positive,2
+(L) 9519433,Roger_52492105,Positive,2
+(L) 9519433,Roger_52492105,Negative,1
+(L) 9519433,Roger_52492105,Negative,1
+(L) 9519433,Roger_52492105,Negative,1
+(L) 9615999,Roger_52492105,Positive,2
+(L) 10026712,Roger_52492105,Positive,2
+(L) 10026712,Roger_52492105,Negative,1
+(L) 10091713,Roger_52492105,Negative,1
+(L) 11855437,Roger_52492105,Positive,2
+(L) 12497257,Roger_52492105,Negative,1
+(L) 13239461,Roger_52492105,Negative,1
+(L) 13481300,Roger_52492105,Positive,2
+(L) 14925384,Roger_52492105,Positive,2
+(L) 15099899,Roger_52492105,Positive,2
+(L) 15099899,Roger_52492105,Positive,2
+(L) 15099899,Roger_52492105,Negative,1
+(L) 15220858,Roger_52492105,Positive,2
+(L) 15513928,Roger_52492105,Positive,2
+(L) 16445733,Roger_52492105,Negative,1
+(L) 16445733,Roger_52492105,Positive,2
+(L) 18843931,Roger_52492105,Positive,2
+(L) 19101709,Roger_52492105,Positive,2
+(L) 19555904,Roger_52492105,Negative,1
+(L) 223221,Rochelle_46757748,Negative,1
+(L) 223221,Rochelle_46757748,Positive,2
+(L) 223221,Rochelle_46757748,Positive,2
+(L) 223221,Rochelle_46757748,Positive,2
+(L) 223221,Rochelle_46757748,Negative,1
+(L) 223221,Rochelle_46757748,Negative,1
+(L) 8461067,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Positive,2
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 9332510,Rochelle_46757748,Negative,1
+(L) 10995325,Rochelle_46757748,Negative,1
+(L) 1408494,James_12379656,Positive,2
+(L) 2249881,James_12379656,Positive,2
+(L) 6349130,James_12379656,Negative,1
+(L) 6349130,James_12379656,Negative,1
+(L) 6349130,James_12379656,Positive,2
+(L) 12744324,James_12379656,Positive,2
+(L) 12803298,James_12379656,Negative,1
+(L) 12897385,James_12379656,Negative,1
+(L) 12897385,James_12379656,Positive,2
+(L) 15524674,James_12379656,Negative,1
+(L) 15835075,James_12379656,Positive,2
+(L) 15942066,James_12379656,Positive,2
+(L) 16100680,James_12379656,Positive,2
+(L) 16785366,James_12379656,Positive,2
+(L) 18694945,James_12379656,Negative,1
+(L) 18982050,James_12379656,Negative,1
+(L) 19972599,James_12379656,Negative,1
+(L) 21362838,James_12379656,Positive,2
+(L) 21952924,James_12379656,Positive,2
+(L) 22109754,James_12379656,Positive,2
+(L) 22335017,James_12379656,Negative,1
+(L) 23346246,James_12379656,Positive,2
+(L) 23348323,James_12379656,Negative,1
+(L) 23441110,James_12379656,Negative,1
+(L) 24707529,James_12379656,Positive,2
+(L) 24970253,James_12379656,Positive,2
+(L) 25377947,James_12379656,Negative,1
+(L) 26898426,James_12379656,Negative,1
+(L) 27610348,James_12379656,Positive,2
+(L) 28483909,James_12379656,Positive,2
+(L) 29087621,James_12379656,Negative,1
+(L) 73639,Shin Khoon_120060989,Positive,2
+(L) 1769170,Shin Khoon_120060989,Negative,1
+(L) 5366904,Shin Khoon_120060989,Negative,1
+(L) 5999550,Shin Khoon_120060989,Negative,1
+(L) 13438832,Shin Khoon_120060989,Negative,1
+(L) 13438832,Shin Khoon_120060989,Negative,1
+(L) 13704039,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 15044083,Shin Khoon_120060989,Negative,1
+(L) 16445449,Shin Khoon_120060989,Positive,2
+(L) 16749067,Shin Khoon_120060989,Positive,2
+(L) 17026373,Shin Khoon_120060989,Negative,1
+(L) 17560855,Shin Khoon_120060989,Negative,1
+(L) 17560855,Shin Khoon_120060989,Negative,1
+(L) 17560855,Shin Khoon_120060989,Negative,1
+(L) 17560855,Shin Khoon_120060989,Negative,1
+(L) 17560855,Shin Khoon_120060989,Positive,2
+(L) 17560855,Shin Khoon_120060989,Positive,2
+(L) 19304312,Shin Khoon_120060989,Negative,1
+(L) 20055551,Shin Khoon_120060989,Negative,1
+(L) 20701633,Shin Khoon_120060989,Negative,1
+(L) 21971426,Shin Khoon_120060989,Negative,1
+(L) 23095433,Shin Khoon_120060989,Positive,2
+(L) 23095433,Shin Khoon_120060989,Positive,2
+(L) 23735284,Shin Khoon_120060989,Positive,2
+(L) 387130,Lucy_25823448,Positive,2
+(L) 3513769,Lucy_25823448,Positive,2
+(L) 3953704,Lucy_25823448,Positive,2
+(L) 3953704,Lucy_25823448,Positive,2
+(L) 3953704,Lucy_25823448,Positive,2
+(L) 3953704,Lucy_25823448,Negative,1
+(L) 4439559,Lucy_25823448,Positive,2
+(L) 4569536,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 5014943,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Positive,2
+(L) 5014943,Lucy_25823448,Negative,1
+(L) 8617383,Lucy_25823448,Negative,1
+(L) 8617383,Lucy_25823448,Positive,2
+(L) 8617383,Lucy_25823448,Negative,1
+(L) 8617383,Lucy_25823448,Negative,1
+(L) 8617383,Lucy_25823448,Positive,2
+(L) 8617383,Lucy_25823448,Positive,2
+(L) 8831721,Lucy_25823448,Negative,1
+(L) 8831721,Lucy_25823448,Negative,1
+(L) 8831721,Lucy_25823448,Positive,2
+(L) 8831721,Lucy_25823448,Positive,2
+(L) 3264454,Robert_34810344,Positive,2
+(L) 3265015,Robert_34810344,Positive,2
+(L) 3265015,Robert_34810344,Positive,2
+(L) 3265015,Robert_34810344,Positive,2
+(L) 4431401,Robert_34810344,Negative,1
+(L) 4431401,Robert_34810344,Positive,2
+(L) 5364803,Robert_34810344,Positive,2
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 6438273,Robert_34810344,Negative,1
+(L) 8461058,Robert_34810344,Negative,1
+(L) 8997080,Robert_34810344,Negative,1
+(L) 9241437,Robert_34810344,Negative,1
+(L) 9245388,Robert_34810344,Positive,2
+(L) 9245388,Robert_34810344,Negative,1
+(L) 9245388,Robert_34810344,Negative,1
+(L) 9245388,Robert_34810344,Positive,2
+(L) 9245388,Robert_34810344,Negative,1
+(L) 9416414,Robert_34810344,Negative,1
+(L) 12481407,Robert_34810344,Negative,1
+(L) 14030846,Robert_34810344,Positive,2
+(L) 16666362,Robert_34810344,Positive,2
+(L) 16693332,Robert_34810344,Positive,2
+(L) 18645288,Robert_34810344,Negative,1
+(L) 21854276,Robert_34810344,Negative,1
+(L) 21519998,Jessica LL_161023168,Negative,1
+(L) 21519998,Jessica LL_161023168,Negative,1
+(L) 21625489,Jessica LL_161023168,Negative,1
+(L) 21625489,Jessica LL_161023168,Negative,1
+(L) 21625489,Jessica LL_161023168,Negative,1
+(L) 21625489,Jessica LL_161023168,Negative,1
+(L) 21625489,Jessica LL_161023168,Negative,1
+(L) 22048655,Jessica LL_161023168,Negative,1
+(L) 22048655,Jessica LL_161023168,Negative,1
+(L) 22048724,Jessica LL_161023168,Negative,1
+(L) 22048724,Jessica LL_161023168,Negative,1
+(L) 22048724,Jessica LL_161023168,Negative,1
+(L) 22189155,Jessica LL_161023168,Negative,1
+(L) 22329806,Jessica LL_161023168,Negative,1
+(L) 22329806,Jessica LL_161023168,Positive,2
+(L) 23510317,Jessica LL_161023168,Positive,2
+(L) 23510317,Jessica LL_161023168,Negative,1
+(L) 23731512,Jessica LL_161023168,Positive,2
+(L) 23798674,Jessica LL_161023168,Negative,1
+(L) 23830086,Jessica LL_161023168,Negative,1
+(L) 28045307,Jessica LL_161023168,Negative,1
+(L) 28045307,Jessica LL_161023168,Positive,2
+(L) 28045307,Jessica LL_161023168,Negative,1
+(L) 28212369,Jessica LL_161023168,Negative,1
+(L) 28951925,Jessica LL_161023168,Negative,1
+(L) 29114615,Jessica LL_161023168,Negative,1
+(L) 29781537,Jessica LL_161023168,Positive,2
+(L) 29891617,Jessica LL_161023168,Positive,2
+(L) 30334092,Jessica LL_161023168,Positive,2
+(L) 77792,Robert_45047906,Positive,2
+(L) 837407,Robert_45047906,Positive,2
+(L) 1949398,Robert_45047906,Positive,2
+(L) 2160385,Robert_45047906,Negative,1
+(L) 2160385,Robert_45047906,Positive,2
+(L) 10599898,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Negative,1
+(L) 15279275,Robert_45047906,Positive,2
+(L) 15279275,Robert_45047906,Negative,1
+(L) 16545379,Robert_45047906,Negative,1
+(L) 22329109,Robert_45047906,Negative,1
+(L) 12351,Grant_5192518,Negative,1
+(L) 771147,Grant_5192518,Positive,2
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Negative,1
+(L) 4888502,Grant_5192518,Positive,2
+(L) 6438273,Grant_5192518,Negative,1
+(L) 7700641,Grant_5192518,Negative,1
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Negative,1
+(L) 7700641,Grant_5192518,Negative,1
+(L) 7700641,Grant_5192518,Positive,2
+(L) 7700641,Grant_5192518,Negative,1
+(L) 7700641,Grant_5192518,Positive,2
+(L) 9718091,Grant_5192518,Negative,1
+(L) 9844656,Grant_5192518,Positive,2
+(L) 9844656,Grant_5192518,Negative,1
+(L) 10211390,Grant_5192518,Negative,1
+(L) 11228266,Grant_5192518,Positive,2
+(L) 12041883,Grant_5192518,Positive,2
+(L) 16113040,Grant_5192518,Negative,1
+(L) 223221,Chris_59485085,Negative,1
+(L) 3947896,Chris_59485085,Positive,2
+(L) 3947896,Chris_59485085,Negative,1
+(L) 3947896,Chris_59485085,Negative,1
+(L) 3947896,Chris_59485085,Negative,1
+(L) 4972252,Chris_59485085,Negative,1
+(L) 5584759,Chris_59485085,Positive,2
+(L) 8510573,Chris_59485085,Negative,1
+(L) 8782702,Chris_59485085,Negative,1
+(L) 8782702,Chris_59485085,Negative,1
+(L) 8782702,Chris_59485085,Negative,1
+(L) 10003982,Chris_59485085,Positive,2
+(L) 10003982,Chris_59485085,Negative,1
+(L) 10003982,Chris_59485085,Positive,2
+(L) 10003982,Chris_59485085,Positive,2
+(L) 10003982,Chris_59485085,Negative,1
+(L) 12256756,Chris_59485085,Negative,1
+(L) 16150505,Chris_59485085,Positive,2
+(L) 16150505,Chris_59485085,Positive,2
+(L) 16150505,Chris_59485085,Positive,2
+(L) 16150505,Chris_59485085,Negative,1
+(L) 16150505,Chris_59485085,Negative,1
+(L) 16150505,Chris_59485085,Positive,2
+(L) 16150505,Chris_59485085,Positive,2
+(L) 16150505,Chris_59485085,Positive,2
+(L) 19261696,Chris_59485085,Negative,1
+(L) 20459691,Chris_59485085,Positive,2
+(L) 20459691,Chris_59485085,Negative,1
+(L) 2723564,Doug_82933395,Negative,1
+(L) 2723564,Doug_82933395,Positive,2
+(L) 3265676,Doug_82933395,Positive,2
+(L) 3265676,Doug_82933395,Positive,2
+(L) 3265676,Doug_82933395,Positive,2
+(L) 3265676,Doug_82933395,Negative,1
+(L) 4917336,Doug_82933395,Positive,2
+(L) 4917336,Doug_82933395,Negative,1
+(L) 10318389,Doug_82933395,Positive,2
+(L) 11230729,Doug_82933395,Negative,1
+(L) 11402633,Doug_82933395,Negative,1
+(L) 11790779,Doug_82933395,Positive,2
+(L) 12610247,Doug_82933395,Positive,2
+(L) 13523243,Doug_82933395,Negative,1
+(L) 13523243,Doug_82933395,Negative,1
+(L) 14366167,Doug_82933395,Positive,2
+(L) 14616342,Doug_82933395,Negative,1
+(L) 14797140,Doug_82933395,Negative,1
+(L) 16416979,Doug_82933395,Negative,1
+(L) 18637325,Doug_82933395,Negative,1
+(L) 18637325,Doug_82933395,Negative,1
+(L) 18637325,Doug_82933395,Negative,1
+(L) 18694945,Doug_82933395,Positive,2
+(L) 18694945,Doug_82933395,Positive,2
+(L) 21016866,Doug_82933395,Negative,1
+(L) 22907311,Doug_82933395,Positive,2
+(L) 24143801,Doug_82933395,Negative,1
+(L) 73639,Phil_75144789,Positive,2
+(L) 1718606,Phil_75144789,Negative,1
+(L) 1718606,Phil_75144789,Positive,2
+(L) 1718606,Phil_75144789,Negative,1
+(L) 4247960,Phil_75144789,Negative,1
+(L) 4247960,Phil_75144789,Positive,2
+(L) 4247960,Phil_75144789,Negative,1
+(L) 4247960,Phil_75144789,Negative,1
+(L) 4966816,Phil_75144789,Negative,1
+(L) 7680007,Phil_75144789,Negative,1
+(L) 7680007,Phil_75144789,Negative,1
+(L) 7680007,Phil_75144789,Negative,1
+(L) 9683087,Phil_75144789,Negative,1
+(L) 10456538,Phil_75144789,Negative,1
+(L) 13941758,Phil_75144789,Negative,1
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Positive,2
+(L) 14094396,Phil_75144789,Negative,1
+(L) 14094396,Phil_75144789,Positive,2
+(L) 15652443,Phil_75144789,Negative,1
+(L) 16706327,Phil_75144789,Negative,1
+(L) 21568485,Phil_75144789,Negative,1
+(L) 21568485,Phil_75144789,Negative,1
+(L) 304835,Thalia_110669788,Positive,2
+(L) 4477634,Thalia_110669788,Negative,1
+(L) 4698283,Thalia_110669788,Positive,2
+(L) 5041030,Thalia_110669788,Positive,2
+(L) 8585205,Thalia_110669788,Negative,1
+(L) 9050938,Thalia_110669788,Positive,2
+(L) 9653930,Thalia_110669788,Negative,1
+(L) 13499531,Thalia_110669788,Negative,1
+(L) 14406658,Thalia_110669788,Negative,1
+(L) 15276023,Thalia_110669788,Negative,1
+(L) 16338897,Thalia_110669788,Positive,2
+(L) 16745047,Thalia_110669788,Positive,2
+(L) 17076212,Thalia_110669788,Negative,1
+(L) 19481367,Thalia_110669788,Positive,2
+(L) 19742639,Thalia_110669788,Negative,1
+(L) 20447092,Thalia_110669788,Positive,2
+(L) 20865922,Thalia_110669788,Positive,2
+(L) 22469889,Thalia_110669788,Negative,1
+(L) 22558475,Thalia_110669788,Negative,1
+(L) 22558475,Thalia_110669788,Negative,1
+(L) 23295918,Thalia_110669788,Positive,2
+(L) 23588730,Thalia_110669788,Positive,2
+(L) 24531572,Thalia_110669788,Positive,2
+(L) 25016849,Thalia_110669788,Positive,2
+(L) 27475124,Thalia_110669788,Positive,2
+(L) 28263099,Thalia_110669788,Positive,2
+(L) 29299151,Thalia_110669788,Negative,1
+(L) 655236,Karlene_54140297,Positive,2
+(L) 837794,Karlene_54140297,Positive,2
+(L) 2243639,Karlene_54140297,Positive,2
+(L) 2877534,Karlene_54140297,Positive,2
+(L) 5698406,Karlene_54140297,Positive,2
+(L) 8690576,Karlene_54140297,Negative,1
+(L) 9393747,Karlene_54140297,Positive,2
+(L) 9865064,Karlene_54140297,Positive,2
+(L) 12874761,Karlene_54140297,Positive,2
+(L) 14475170,Karlene_54140297,Positive,2
+(L) 15398262,Karlene_54140297,Positive,2
+(L) 15634199,Karlene_54140297,Positive,2
+(L) 15947467,Karlene_54140297,Positive,2
+(L) 16416263,Karlene_54140297,Positive,2
+(L) 17310434,Karlene_54140297,Positive,2
+(L) 18042924,Karlene_54140297,Positive,2
+(L) 18042924,Karlene_54140297,Positive,2
+(L) 19848419,Karlene_54140297,Positive,2
+(L) 19952063,Karlene_54140297,Positive,2
+(L) 20351337,Karlene_54140297,Positive,2
+(L) 20666669,Karlene_54140297,Positive,2
+(L) 21002732,Karlene_54140297,Positive,2
+(L) 21329062,Karlene_54140297,Positive,2
+(L) 21650224,Karlene_54140297,Positive,2
+(L) 26961458,Karlene_54140297,Positive,2
+(L) 28421398,Karlene_54140297,Positive,2
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Positive,2
+(L) 6534880,Chris_23662728,Negative,1
+(L) 6534880,Chris_23662728,Negative,1
+(L) 846696,Mei Ling_8511105,Positive,2
+(L) 952331,Mei Ling_8511105,Positive,2
+(L) 2239063,Mei Ling_8511105,Negative,1
+(L) 3265015,Mei Ling_8511105,Negative,1
+(L) 4281870,Mei Ling_8511105,Positive,2
+(L) 5138641,Mei Ling_8511105,Negative,1
+(L) 5984722,Mei Ling_8511105,Positive,2
+(L) 5984722,Mei Ling_8511105,Positive,2
+(L) 7890243,Mei Ling_8511105,Negative,1
+(L) 10995325,Mei Ling_8511105,Positive,2
+(L) 10995325,Mei Ling_8511105,Positive,2
+(L) 15317060,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Negative,1
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Negative,1
+(L) 15746873,Mei Ling_8511105,Negative,1
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 15746873,Mei Ling_8511105,Positive,2
+(L) 19755847,Mei Ling_8511105,Negative,1
+(L) 19755847,Mei Ling_8511105,Positive,2
+(L) 19755847,Mei Ling_8511105,Positive,2
+(L) 19755847,Mei Ling_8511105,Positive,2
+(L) 27009904,Mei Ling_8511105,Positive,2
+(L) 304835,Laurence_15500371,Positive,2
+(L) 396335,Laurence_15500371,Negative,1
+(L) 396335,Laurence_15500371,Negative,1
+(L) 869512,Laurence_15500371,Negative,1
+(L) 1268187,Laurence_15500371,Negative,1
+(L) 1292602,Laurence_15500371,Positive,2
+(L) 1299303,Laurence_15500371,Positive,2
+(L) 2621669,Laurence_15500371,Positive,2
+(L) 2890011,Laurence_15500371,Positive,2
+(L) 4655346,Laurence_15500371,Positive,2
+(L) 4698283,Laurence_15500371,Negative,1
+(L) 4937277,Laurence_15500371,Negative,1
+(L) 5015758,Laurence_15500371,Negative,1
+(L) 6705769,Laurence_15500371,Negative,1
+(L) 6750274,Laurence_15500371,Positive,2
+(L) 6959205,Laurence_15500371,Positive,2
+(L) 7408418,Laurence_15500371,Positive,2
+(L) 7500580,Laurence_15500371,Negative,1
+(L) 8760182,Laurence_15500371,Positive,2
+(L) 8801526,Laurence_15500371,Positive,2
+(L) 14999903,Laurence_15500371,Positive,2
+(L) 14999903,Laurence_15500371,Positive,2
+(L) 18364525,Laurence_15500371,Negative,1
+(L) 21602833,Laurence_15500371,Negative,1
+(L) 21771768,Laurence_15500371,Negative,1
+(L) 23567299,Laurence_15500371,Positive,2
+(L) 6328156,James_40167378,Negative,1
+(L) 6920789,James_40167378,Negative,1
+(L) 8007023,James_40167378,Negative,1
+(L) 8544848,James_40167378,Negative,1
+(L) 9265665,James_40167378,Negative,1
+(L) 9265665,James_40167378,Negative,1
+(L) 15501219,James_40167378,Negative,1
+(L) 16730359,James_40167378,Negative,1
+(L) 17333266,James_40167378,Negative,1
+(L) 18093040,James_40167378,Negative,1
+(L) 20222989,James_40167378,Positive,2
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Positive,2
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Negative,1
+(L) 21925294,James_40167378,Positive,2
+(L) 22410800,James_40167378,Negative,1
+(L) 9301633,Marian_56997244,Negative,1
+(L) 10840047,Marian_56997244,Negative,1
+(L) 11609877,Marian_56997244,Negative,1
+(L) 12376261,Marian_56997244,Negative,1
+(L) 15603682,Marian_56997244,Negative,1
+(L) 16129300,Marian_56997244,Negative,1
+(L) 17804545,Marian_56997244,Negative,1
+(L) 18439259,Marian_56997244,Negative,1
+(L) 19271100,Marian_56997244,Negative,1
+(L) 20395090,Marian_56997244,Negative,1
+(L) 21318650,Marian_56997244,Negative,1
+(L) 21938249,Marian_56997244,Negative,1
+(L) 24570171,Marian_56997244,Negative,1
+(L) 25000686,Marian_56997244,Negative,1
+(L) 25000686,Marian_56997244,Negative,1
+(L) 26863884,Marian_56997244,Negative,1
+(L) 26863884,Marian_56997244,Negative,1
+(L) 27149641,Marian_56997244,Negative,1
+(L) 27207671,Marian_56997244,Negative,1
+(L) 27833927,Marian_56997244,Negative,1
+(L) 28526948,Marian_56997244,Negative,1
+(L) 28820685,Marian_56997244,Negative,1
+(L) 28840363,Marian_56997244,Negative,1
+(L) 29521962,Marian_56997244,Negative,1
+(L) 29632265,Marian_56997244,Negative,1
+(L) 1769170,Tim_174294896,Positive,2
+(L) 1803477,Tim_174294896,Positive,2
+(L) 23208027,Tim_174294896,Negative,1
+(L) 23208027,Tim_174294896,Positive,2
+(L) 23208027,Tim_174294896,Positive,2
+(L) 23255721,Tim_174294896,Negative,1
+(L) 23398105,Tim_174294896,Negative,1
+(L) 23424443,Tim_174294896,Positive,2
+(L) 23441110,Tim_174294896,Positive,2
+(L) 23441110,Tim_174294896,Negative,1
+(L) 23441110,Tim_174294896,Negative,1
+(L) 23441110,Tim_174294896,Negative,1
+(L) 23441110,Tim_174294896,Positive,2
+(L) 23788626,Tim_174294896,Positive,2
+(L) 23788626,Tim_174294896,Negative,1
+(L) 23788626,Tim_174294896,Negative,1
+(L) 24149517,Tim_174294896,Positive,2
+(L) 24585647,Tim_174294896,Positive,2
+(L) 25377947,Tim_174294896,Positive,2
+(L) 25377947,Tim_174294896,Positive,2
+(L) 26261823,Tim_174294896,Negative,1
+(L) 26261842,Tim_174294896,Positive,2
+(L) 26261842,Tim_174294896,Positive,2
+(L) 26261842,Tim_174294896,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Positive,2
+(L) 21937462,Geoff_170816828,Negative,1
+(L) 295480,Laurent_19898164,Negative,1
+(L) 295480,Laurent_19898164,Negative,1
+(L) 295480,Laurent_19898164,Negative,1
+(L) 726883,Laurent_19898164,Negative,1
+(L) 2062318,Laurent_19898164,Negative,1
+(L) 2304942,Laurent_19898164,Negative,1
+(L) 2304942,Laurent_19898164,Negative,1
+(L) 2304942,Laurent_19898164,Negative,1
+(L) 2893200,Laurent_19898164,Positive,2
+(L) 2893200,Laurent_19898164,Negative,1
+(L) 2893200,Laurent_19898164,Negative,1
+(L) 2893200,Laurent_19898164,Positive,2
+(L) 2893200,Laurent_19898164,Negative,1
+(L) 2893200,Laurent_19898164,Negative,1
+(L) 2893200,Laurent_19898164,Negative,1
+(L) 8632835,Laurent_19898164,Negative,1
+(L) 8799329,Laurent_19898164,Negative,1
+(L) 9222316,Laurent_19898164,Negative,1
+(L) 13467416,Laurent_19898164,Negative,1
+(L) 13932915,Laurent_19898164,Positive,2
+(L) 13932915,Laurent_19898164,Positive,2
+(L) 17701696,Laurent_19898164,Negative,1
+(L) 21830042,Laurent_19898164,Positive,2
+(L) 25325049,Laurent_19898164,Negative,1
+(L) 387130,Rodrigo_9239619,Positive,2
+(L) 846696,Rodrigo_9239619,Negative,1
+(L) 3013026,Rodrigo_9239619,Positive,2
+(L) 4755217,Rodrigo_9239619,Negative,1
+(L) 4755217,Rodrigo_9239619,Negative,1
+(L) 4755217,Rodrigo_9239619,Positive,2
+(L) 7042470,Rodrigo_9239619,Negative,1
+(L) 7042470,Rodrigo_9239619,Negative,1
+(L) 7054719,Rodrigo_9239619,Negative,1
+(L) 8292666,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Positive,2
+(L) 11460324,Rodrigo_9239619,Positive,2
+(L) 11460324,Rodrigo_9239619,Positive,2
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 11460324,Rodrigo_9239619,Negative,1
+(L) 12689338,Rodrigo_9239619,Negative,1
+(L) 13301813,Rodrigo_9239619,Negative,1
+(L) 13674956,Rodrigo_9239619,Negative,1
+(L) 15186470,Rodrigo_9239619,Negative,1
+(L) 16394059,Rodrigo_9239619,Negative,1
+(L) 1925052,Melissa_38714873,Positive,2
+(L) 3917500,Melissa_38714873,Negative,1
+(L) 5288331,Melissa_38714873,Positive,2
+(L) 5509789,Melissa_38714873,Positive,2
+(L) 5622326,Melissa_38714873,Positive,2
+(L) 8831721,Melissa_38714873,Positive,2
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 8831721,Melissa_38714873,Positive,2
+(L) 8831721,Melissa_38714873,Positive,2
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 8831721,Melissa_38714873,Negative,1
+(L) 13804295,Melissa_38714873,Positive,2
+(L) 14738007,Melissa_38714873,Positive,2
+(L) 16933922,Melissa_38714873,Positive,2
+(L) 17910425,Melissa_38714873,Positive,2
+(L) 22249606,Melissa_38714873,Positive,2
+(L) 23550293,Melissa_38714873,Positive,2
+(L) 23550293,Melissa_38714873,Negative,1
+(L) 23550293,Melissa_38714873,Negative,1
+(L) 23550293,Melissa_38714873,Negative,1
+(L) 23550293,Melissa_38714873,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Positive,2
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 7700641,Dirk_2318728,Negative,1
+(L) 8991803,Dirk_2318728,Positive,2
+(L) 16601850,Dirk_2318728,Positive,2
+(L) 20508469,Dirk_2318728,Positive,2
+(L) 7403055,Bradley_135558719,Negative,1
+(L) 7403055,Bradley_135558719,Negative,1
+(L) 8506353,Bradley_135558719,Negative,1
+(L) 8506353,Bradley_135558719,Positive,2
+(L) 8506353,Bradley_135558719,Negative,1
+(L) 8506353,Bradley_135558719,Positive,2
+(L) 8506353,Bradley_135558719,Negative,1
+(L) 8506353,Bradley_135558719,Positive,2
+(L) 8506353,Bradley_135558719,Negative,1
+(L) 8831721,Bradley_135558719,Negative,1
+(L) 8831721,Bradley_135558719,Negative,1
+(L) 8831721,Bradley_135558719,Positive,2
+(L) 8831721,Bradley_135558719,Negative,1
+(L) 8831721,Bradley_135558719,Positive,2
+(L) 8831721,Bradley_135558719,Negative,1
+(L) 8831721,Bradley_135558719,Positive,2
+(L) 8831721,Bradley_135558719,Positive,2
+(L) 8831721,Bradley_135558719,Negative,1
+(L) 10320098,Bradley_135558719,Negative,1
+(L) 10320098,Bradley_135558719,Negative,1
+(L) 20668684,Bradley_135558719,Positive,2
+(L) 20984124,Bradley_135558719,Positive,2
+(L) 22404165,Bradley_135558719,Negative,1
+(L) 1073607,Kevin_13579905,Positive,2
+(L) 1793897,Kevin_13579905,Negative,1
+(L) 1949398,Kevin_13579905,Positive,2
+(L) 2786443,Kevin_13579905,Positive,2
+(L) 3265676,Kevin_13579905,Positive,2
+(L) 4624297,Kevin_13579905,Positive,2
+(L) 4876374,Kevin_13579905,Positive,2
+(L) 5178277,Kevin_13579905,Positive,2
+(L) 5796898,Kevin_13579905,Negative,1
+(L) 5981263,Kevin_13579905,Positive,2
+(L) 6046427,Kevin_13579905,Positive,2
+(L) 7849180,Kevin_13579905,Positive,2
+(L) 9049446,Kevin_13579905,Positive,2
+(L) 9336254,Kevin_13579905,Positive,2
+(L) 11480581,Kevin_13579905,Positive,2
+(L) 12434800,Kevin_13579905,Negative,1
+(L) 12814872,Kevin_13579905,Positive,2
+(L) 12814872,Kevin_13579905,Positive,2
+(L) 12814872,Kevin_13579905,Positive,2
+(L) 14094396,Kevin_13579905,Negative,1
+(L) 19142277,Kevin_13579905,Negative,1
+(L) 20961337,Kevin_13579905,Positive,2
+(L) 21584137,Kevin_13579905,Positive,2
+(L) 22557845,Kevin_13579905,Positive,2
+(L) 4420479,Anwer_13323398,Positive,2
+(L) 4888502,Anwer_13323398,Negative,1
+(L) 5979856,Anwer_13323398,Negative,1
+(L) 6438273,Anwer_13323398,Negative,1
+(L) 8152370,Anwer_13323398,Negative,1
+(L) 10211390,Anwer_13323398,Negative,1
+(L) 13676035,Anwer_13323398,Negative,1
+(L) 15167430,Anwer_13323398,Negative,1
+(L) 16615793,Anwer_13323398,Negative,1
+(L) 17126992,Anwer_13323398,Negative,1
+(L) 17374886,Anwer_13323398,Negative,1
+(L) 18193649,Anwer_13323398,Negative,1
+(L) 18449103,Anwer_13323398,Positive,2
+(L) 19375799,Anwer_13323398,Negative,1
+(L) 19390139,Anwer_13323398,Negative,1
+(L) 19595754,Anwer_13323398,Positive,2
+(L) 19715924,Anwer_13323398,Positive,2
+(L) 19988301,Anwer_13323398,Positive,2
+(L) 20411495,Anwer_13323398,Negative,1
+(L) 23882856,Anwer_13323398,Negative,1
+(L) 24000520,Anwer_13323398,Negative,1
+(L) 24261306,Anwer_13323398,Positive,2
+(L) 25325374,Anwer_13323398,Negative,1
+(L) 26437841,Anwer_13323398,Negative,1
+(L) 1861619,Khalil_105864487,Negative,1
+(L) 3820441,Khalil_105864487,Positive,2
+(L) 14616342,Khalil_105864487,Positive,2
+(L) 16018148,Khalil_105864487,Negative,1
+(L) 16045570,Khalil_105864487,Positive,2
+(L) 16045570,Khalil_105864487,Positive,2
+(L) 16045570,Khalil_105864487,Positive,2
+(L) 16045570,Khalil_105864487,Negative,1
+(L) 17450684,Khalil_105864487,Positive,2
+(L) 17817385,Khalil_105864487,Positive,2
+(L) 19315093,Khalil_105864487,Positive,2
+(L) 20035469,Khalil_105864487,Positive,2
+(L) 20202988,Khalil_105864487,Positive,2
+(L) 20578794,Khalil_105864487,Positive,2
+(L) 20919241,Khalil_105864487,Positive,2
+(L) 21238407,Khalil_105864487,Positive,2
+(L) 21506850,Khalil_105864487,Positive,2
+(L) 21543390,Khalil_105864487,Positive,2
+(L) 21684386,Khalil_105864487,Positive,2
+(L) 21840967,Khalil_105864487,Positive,2
+(L) 22019051,Khalil_105864487,Negative,1
+(L) 23150598,Khalil_105864487,Negative,1
+(L) 23454701,Khalil_105864487,Negative,1
+(L) 23656007,Khalil_105864487,Positive,2
+(L) 426398,Richard_24983681,Negative,1
+(L) 426398,Richard_24983681,Negative,1
+(L) 426398,Richard_24983681,Positive,2
+(L) 426398,Richard_24983681,Negative,1
+(L) 426398,Richard_24983681,Positive,2
+(L) 3796402,Richard_24983681,Negative,1
+(L) 4626857,Richard_24983681,Negative,1
+(L) 4937277,Richard_24983681,Positive,2
+(L) 6046427,Richard_24983681,Positive,2
+(L) 6337820,Richard_24983681,Positive,2
+(L) 10106302,Richard_24983681,Positive,2
+(L) 13793021,Richard_24983681,Positive,2
+(L) 15349516,Richard_24983681,Positive,2
+(L) 15835075,Richard_24983681,Positive,2
+(L) 16562839,Richard_24983681,Positive,2
+(L) 17895868,Richard_24983681,Negative,1
+(L) 18755167,Richard_24983681,Positive,2
+(L) 19829650,Richard_24983681,Positive,2
+(L) 20313930,Richard_24983681,Positive,2
+(L) 20961337,Richard_24983681,Positive,2
+(L) 21541425,Richard_24983681,Positive,2
+(L) 21732085,Richard_24983681,Negative,1
+(L) 21732439,Richard_24983681,Negative,1
+(L) 21937462,Richard_24983681,Positive,2
+(L) 12176184,Christopher_118638620,Negative,1
+(L) 12176184,Christopher_118638620,Positive,2
+(L) 16817510,Christopher_118638620,Positive,2
+(L) 16817510,Christopher_118638620,Positive,2
+(L) 16817510,Christopher_118638620,Positive,2
+(L) 16817510,Christopher_118638620,Negative,1
+(L) 16817510,Christopher_118638620,Positive,2
+(L) 16837230,Christopher_118638620,Positive,2
+(L) 17658974,Christopher_118638620,Positive,2
+(L) 19372039,Christopher_118638620,Negative,1
+(L) 19770551,Christopher_118638620,Positive,2
+(L) 19770551,Christopher_118638620,Positive,2
+(L) 19770551,Christopher_118638620,Negative,1
+(L) 19770551,Christopher_118638620,Positive,2
+(L) 19852401,Christopher_118638620,Negative,1
+(L) 19852401,Christopher_118638620,Positive,2
+(L) 20505575,Christopher_118638620,Negative,1
+(L) 20505575,Christopher_118638620,Negative,1
+(L) 20505575,Christopher_118638620,Negative,1
+(L) 20988538,Christopher_118638620,Positive,2
+(L) 21017098,Christopher_118638620,Negative,1
+(L) 21308964,Christopher_118638620,Negative,1
+(L) 21308964,Christopher_118638620,Positive,2
+(L) 21308964,Christopher_118638620,Positive,2
+(L) 9260650,Nick_67084875,Positive,2
+(L) 10995325,Nick_67084875,Negative,1
+(L) 10995325,Nick_67084875,Negative,1
+(L) 10995325,Nick_67084875,Positive,2
+(L) 10995325,Nick_67084875,Negative,1
+(L) 10995325,Nick_67084875,Negative,1
+(L) 10995325,Nick_67084875,Negative,1
+(L) 10995325,Nick_67084875,Positive,2
+(L) 10995325,Nick_67084875,Negative,1
+(L) 21982283,Nick_67084875,Positive,2
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 22295354,Nick_67084875,Negative,1
+(L) 829176,Jeremy_24887701,Negative,1
+(L) 1161392,Jeremy_24887701,Positive,2
+(L) 1195758,Jeremy_24887701,Positive,2
+(L) 2504252,Jeremy_24887701,Positive,2
+(L) 2876248,Jeremy_24887701,Negative,1
+(L) 4590927,Jeremy_24887701,Negative,1
+(L) 4766604,Jeremy_24887701,Negative,1
+(L) 5622326,Jeremy_24887701,Negative,1
+(L) 6278158,Jeremy_24887701,Positive,2
+(L) 8089890,Jeremy_24887701,Positive,2
+(L) 8472830,Jeremy_24887701,Positive,2
+(L) 10840037,Jeremy_24887701,Positive,2
+(L) 13481300,Jeremy_24887701,Positive,2
+(L) 16745047,Jeremy_24887701,Negative,1
+(L) 18556999,Jeremy_24887701,Negative,1
+(L) 22189155,Jeremy_24887701,Positive,2
+(L) 23257112,Jeremy_24887701,Negative,1
+(L) 24562378,Jeremy_24887701,Negative,1
+(L) 24783964,Jeremy_24887701,Positive,2
+(L) 26108345,Jeremy_24887701,Positive,2
+(L) 26506861,Jeremy_24887701,Positive,2
+(L) 27642846,Jeremy_24887701,Negative,1
+(L) 27993469,Jeremy_24887701,Positive,2
+(L) 2077065,Christian & Kirsty_23220564,Negative,1
+(L) 2495704,Christian & Kirsty_23220564,Positive,2
+(L) 3963496,Christian & Kirsty_23220564,Negative,1
+(L) 5022710,Christian & Kirsty_23220564,Positive,2
+(L) 8331998,Christian & Kirsty_23220564,Positive,2
+(L) 8331998,Christian & Kirsty_23220564,Negative,1
+(L) 8331998,Christian & Kirsty_23220564,Negative,1
+(L) 8331998,Christian & Kirsty_23220564,Negative,1
+(L) 8331998,Christian & Kirsty_23220564,Positive,2
+(L) 8331998,Christian & Kirsty_23220564,Positive,2
+(L) 8331998,Christian & Kirsty_23220564,Negative,1
+(L) 8331998,Christian & Kirsty_23220564,Positive,2
+(L) 9927784,Christian & Kirsty_23220564,Positive,2
+(L) 10636588,Christian & Kirsty_23220564,Negative,1
+(L) 11643573,Christian & Kirsty_23220564,Negative,1
+(L) 16326207,Christian & Kirsty_23220564,Negative,1
+(L) 16326207,Christian & Kirsty_23220564,Positive,2
+(L) 18142759,Christian & Kirsty_23220564,Positive,2
+(L) 20136869,Christian & Kirsty_23220564,Positive,2
+(L) 20952174,Christian & Kirsty_23220564,Positive,2
+(L) 21490486,Christian & Kirsty_23220564,Positive,2
+(L) 21702683,Christian & Kirsty_23220564,Negative,1
+(L) 24876214,Christian & Kirsty_23220564,Positive,2
+(L) 19062323,Justin_120821995,Negative,1
+(L) 21721150,Justin_120821995,Negative,1
+(L) 21721150,Justin_120821995,Negative,1
+(L) 22109673,Justin_120821995,Negative,1
+(L) 22109673,Justin_120821995,Positive,2
+(L) 22109673,Justin_120821995,Negative,1
+(L) 22709306,Justin_120821995,Positive,2
+(L) 22710517,Justin_120821995,Positive,2
+(L) 22722130,Justin_120821995,Negative,1
+(L) 22722590,Justin_120821995,Positive,2
+(L) 22722590,Justin_120821995,Negative,1
+(L) 23135378,Justin_120821995,Positive,2
+(L) 23363936,Justin_120821995,Positive,2
+(L) 23459976,Justin_120821995,Positive,2
+(L) 23459976,Justin_120821995,Positive,2
+(L) 23459976,Justin_120821995,Negative,1
+(L) 25243655,Justin_120821995,Negative,1
+(L) 25797322,Justin_120821995,Negative,1
+(L) 26169398,Justin_120821995,Negative,1
+(L) 27527423,Justin_120821995,Positive,2
+(L) 28875301,Justin_120821995,Negative,1
+(L) 30054848,Justin_120821995,Positive,2
+(L) 30331342,Justin_120821995,Negative,1
+(L) 288671,Shane_21380244,Positive,2
+(L) 387130,Shane_21380244,Positive,2
+(L) 435912,Shane_21380244,Negative,1
+(L) 516032,Shane_21380244,Positive,2
+(L) 2505762,Shane_21380244,Positive,2
+(L) 3774294,Shane_21380244,Positive,2
+(L) 4448723,Shane_21380244,Positive,2
+(L) 5491278,Shane_21380244,Negative,1
+(L) 5751561,Shane_21380244,Positive,2
+(L) 5763156,Shane_21380244,Negative,1
+(L) 6887436,Shane_21380244,Negative,1
+(L) 7468770,Shane_21380244,Positive,2
+(L) 8942973,Shane_21380244,Positive,2
+(L) 9050938,Shane_21380244,Negative,1
+(L) 10581248,Shane_21380244,Positive,2
+(L) 11441680,Shane_21380244,Negative,1
+(L) 12012516,Shane_21380244,Positive,2
+(L) 12497257,Shane_21380244,Negative,1
+(L) 12800606,Shane_21380244,Positive,2
+(L) 12934659,Shane_21380244,Negative,1
+(L) 13381132,Shane_21380244,Negative,1
+(L) 14521064,Shane_21380244,Positive,2
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Positive,2
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Positive,2
+(L) 1253351,Del_7344835,Negative,1
+(L) 1253351,Del_7344835,Negative,1
+(L) 16274813,Del_7344835,Negative,1
+(L) 17011425,Del_7344835,Positive,2
+(L) 17763675,Del_7344835,Negative,1
+(L) 17946780,Del_7344835,Negative,1
+(L) 20173301,Del_7344835,Positive,2
+(L) 28851060,Del_7344835,Negative,1
+(L) 2304942,Kenneth_24272062,Negative,1
+(L) 3265015,Kenneth_24272062,Positive,2
+(L) 3947896,Kenneth_24272062,Negative,1
+(L) 4184965,Kenneth_24272062,Negative,1
+(L) 4590927,Kenneth_24272062,Negative,1
+(L) 5491278,Kenneth_24272062,Negative,1
+(L) 5560772,Kenneth_24272062,Positive,2
+(L) 5751561,Kenneth_24272062,Positive,2
+(L) 5981263,Kenneth_24272062,Positive,2
+(L) 5981263,Kenneth_24272062,Positive,2
+(L) 5981263,Kenneth_24272062,Negative,1
+(L) 6361931,Kenneth_24272062,Negative,1
+(L) 6590227,Kenneth_24272062,Negative,1
+(L) 6828592,Kenneth_24272062,Positive,2
+(L) 6837442,Kenneth_24272062,Negative,1
+(L) 7042470,Kenneth_24272062,Negative,1
+(L) 9538497,Kenneth_24272062,Positive,2
+(L) 13848078,Kenneth_24272062,Negative,1
+(L) 14872806,Kenneth_24272062,Negative,1
+(L) 17669481,Kenneth_24272062,Negative,1
+(L) 18467431,Kenneth_24272062,Positive,2
+(L) 18467431,Kenneth_24272062,Negative,1
+(L) 4157766,Beth_50081274,Positive,2
+(L) 4157766,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Positive,2
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Negative,1
+(L) 4166124,Beth_50081274,Negative,1
+(L) 9349911,Beth_50081274,Negative,1
+(L) 9349911,Beth_50081274,Negative,1
+(L) 2046826,Brooke_2790530,Negative,1
+(L) 2965688,Brooke_2790530,Positive,2
+(L) 4937277,Brooke_2790530,Negative,1
+(L) 5282128,Brooke_2790530,Positive,2
+(L) 7120073,Brooke_2790530,Negative,1
+(L) 8332544,Brooke_2790530,Negative,1
+(L) 9737347,Brooke_2790530,Positive,2
+(L) 10891485,Brooke_2790530,Positive,2
+(L) 11103711,Brooke_2790530,Positive,2
+(L) 11729878,Brooke_2790530,Negative,1
+(L) 13071389,Brooke_2790530,Negative,1
+(L) 15257722,Brooke_2790530,Negative,1
+(L) 16356294,Brooke_2790530,Positive,2
+(L) 17529328,Brooke_2790530,Positive,2
+(L) 17763675,Brooke_2790530,Negative,1
+(L) 17915374,Brooke_2790530,Negative,1
+(L) 21128806,Brooke_2790530,Negative,1
+(L) 21128806,Brooke_2790530,Negative,1
+(L) 21329062,Brooke_2790530,Negative,1
+(L) 21369401,Brooke_2790530,Positive,2
+(L) 21682152,Brooke_2790530,Positive,2
+(L) 21717410,Brooke_2790530,Negative,1
+(L) 2379009,Alex P_53096747,Positive,2
+(L) 4015571,Alex P_53096747,Negative,1
+(L) 4088562,Alex P_53096747,Negative,1
+(L) 4387602,Alex P_53096747,Positive,2
+(L) 5784919,Alex P_53096747,Negative,1
+(L) 5784919,Alex P_53096747,Negative,1
+(L) 5784919,Alex P_53096747,Positive,2
+(L) 5993432,Alex P_53096747,Positive,2
+(L) 7270105,Alex P_53096747,Negative,1
+(L) 7644244,Alex P_53096747,Negative,1
+(L) 8763617,Alex P_53096747,Negative,1
+(L) 8942973,Alex P_53096747,Positive,2
+(L) 9049446,Alex P_53096747,Negative,1
+(L) 9114694,Alex P_53096747,Negative,1
+(L) 9114694,Alex P_53096747,Positive,2
+(L) 9827731,Alex P_53096747,Positive,2
+(L) 10497704,Alex P_53096747,Negative,1
+(L) 10931622,Alex P_53096747,Positive,2
+(L) 11103711,Alex P_53096747,Negative,1
+(L) 13675327,Alex P_53096747,Positive,2
+(L) 15046696,Alex P_53096747,Positive,2
+(L) 3835553,Michelle_120819987,Negative,1
+(L) 5000313,Michelle_120819987,Negative,1
+(L) 5352559,Michelle_120819987,Negative,1
+(L) 5698275,Michelle_120819987,Negative,1
+(L) 6080070,Michelle_120819987,Positive,2
+(L) 6998958,Michelle_120819987,Negative,1
+(L) 11532815,Michelle_120819987,Negative,1
+(L) 12526609,Michelle_120819987,Negative,1
+(L) 16136713,Michelle_120819987,Negative,1
+(L) 16505295,Michelle_120819987,Negative,1
+(L) 17804097,Michelle_120819987,Positive,2
+(L) 18905958,Michelle_120819987,Negative,1
+(L) 18915380,Michelle_120819987,Negative,1
+(L) 20417688,Michelle_120819987,Negative,1
+(L) 21840975,Michelle_120819987,Negative,1
+(L) 21884439,Michelle_120819987,Positive,2
+(L) 21924804,Michelle_120819987,Positive,2
+(L) 21924804,Michelle_120819987,Negative,1
+(L) 24429895,Michelle_120819987,Positive,2
+(L) 26612892,Michelle_120819987,Negative,1
+(L) 28053265,Michelle_120819987,Positive,2
+(L) 29934299,Michelle_120819987,Negative,1
+(L) 9202537,Alex_139394672,Negative,1
+(L) 9202537,Alex_139394672,Negative,1
+(L) 9202537,Alex_139394672,Negative,1
+(L) 9202537,Alex_139394672,Positive,2
+(L) 9202537,Alex_139394672,Negative,1
+(L) 9202537,Alex_139394672,Positive,2
+(L) 9202537,Alex_139394672,Negative,1
+(L) 9202537,Alex_139394672,Negative,1
+(L) 16102516,Alex_139394672,Negative,1
+(L) 16102516,Alex_139394672,Negative,1
+(L) 16102516,Alex_139394672,Negative,1
+(L) 16102516,Alex_139394672,Negative,1
+(L) 16102516,Alex_139394672,Negative,1
+(L) 16562839,Alex_139394672,Positive,2
+(L) 16975413,Alex_139394672,Positive,2
+(L) 16975413,Alex_139394672,Negative,1
+(L) 16975413,Alex_139394672,Positive,2
+(L) 16975413,Alex_139394672,Negative,1
+(L) 16975413,Alex_139394672,Negative,1
+(L) 16975413,Alex_139394672,Negative,1
+(L) 16975413,Alex_139394672,Positive,2
+(L) 16975413,Alex_139394672,Negative,1
+(L) 8583304,Iain_47515177,Positive,2
+(L) 8583304,Iain_47515177,Positive,2
+(L) 8583304,Iain_47515177,Negative,1
+(L) 8583304,Iain_47515177,Positive,2
+(L) 8583304,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Positive,2
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 8977590,Iain_47515177,Negative,1
+(L) 3209999,Tim_136485397,Negative,1
+(L) 6378601,Tim_136485397,Positive,2
+(L) 9963077,Tim_136485397,Negative,1
+(L) 11020313,Tim_136485397,Positive,2
+(L) 11020313,Tim_136485397,Negative,1
+(L) 14937489,Tim_136485397,Positive,2
+(L) 14940179,Tim_136485397,Negative,1
+(L) 14940179,Tim_136485397,Negative,1
+(L) 14940179,Tim_136485397,Negative,1
+(L) 15025379,Tim_136485397,Negative,1
+(L) 15275816,Tim_136485397,Positive,2
+(L) 17911278,Tim_136485397,Positive,2
+(L) 20395354,Tim_136485397,Positive,2
+(L) 20887384,Tim_136485397,Negative,1
+(L) 21035115,Tim_136485397,Negative,1
+(L) 21145581,Tim_136485397,Positive,2
+(L) 23788626,Tim_136485397,Negative,1
+(L) 23965095,Tim_136485397,Negative,1
+(L) 28086269,Tim_136485397,Negative,1
+(L) 28670742,Tim_136485397,Negative,1
+(L) 28670742,Tim_136485397,Negative,1
+(L) 29637504,Tim_136485397,Positive,2
+(L) 19062323,Rong_139188434,Positive,2
+(L) 19062323,Rong_139188434,Negative,1
+(L) 21721150,Rong_139188434,Positive,2
+(L) 21721150,Rong_139188434,Positive,2
+(L) 22109673,Rong_139188434,Negative,1
+(L) 22109673,Rong_139188434,Negative,1
+(L) 22709306,Rong_139188434,Positive,2
+(L) 22709306,Rong_139188434,Negative,1
+(L) 22710517,Rong_139188434,Negative,1
+(L) 22722130,Rong_139188434,Positive,2
+(L) 23135378,Rong_139188434,Negative,1
+(L) 23363936,Rong_139188434,Negative,1
+(L) 23363936,Rong_139188434,Negative,1
+(L) 23459976,Rong_139188434,Negative,1
+(L) 24334394,Rong_139188434,Positive,2
+(L) 26169398,Rong_139188434,Positive,2
+(L) 26372220,Rong_139188434,Positive,2
+(L) 27527423,Rong_139188434,Negative,1
+(L) 27821818,Rong_139188434,Positive,2
+(L) 30026321,Rong_139188434,Negative,1
+(L) 30054848,Rong_139188434,Negative,1
+(L) 30412858,Rong_139188434,Negative,1
+(L) 818471,Andrew_26384378,Negative,1
+(L) 945795,Andrew_26384378,Positive,2
+(L) 1979927,Andrew_26384378,Positive,2
+(L) 4106027,Andrew_26384378,Positive,2
+(L) 4106027,Andrew_26384378,Negative,1
+(L) 5708726,Andrew_26384378,Negative,1
+(L) 8374962,Andrew_26384378,Positive,2
+(L) 9781397,Andrew_26384378,Positive,2
+(L) 10483638,Andrew_26384378,Negative,1
+(L) 11449214,Andrew_26384378,Negative,1
+(L) 12611882,Andrew_26384378,Negative,1
+(L) 13348808,Andrew_26384378,Positive,2
+(L) 13441146,Andrew_26384378,Negative,1
+(L) 15257722,Andrew_26384378,Positive,2
+(L) 16125642,Andrew_26384378,Negative,1
+(L) 16827551,Andrew_26384378,Negative,1
+(L) 16862160,Andrew_26384378,Negative,1
+(L) 17514440,Andrew_26384378,Negative,1
+(L) 17514440,Andrew_26384378,Negative,1
+(L) 19000645,Andrew_26384378,Positive,2
+(L) 22960224,Andrew_26384378,Positive,2
+(L) 23223599,Andrew_26384378,Positive,2
+(L) 6438273,Janet_100834001,Positive,2
+(L) 6438273,Janet_100834001,Negative,1
+(L) 6438273,Janet_100834001,Positive,2
+(L) 9566883,Janet_100834001,Negative,1
+(L) 9566883,Janet_100834001,Positive,2
+(L) 9566883,Janet_100834001,Positive,2
+(L) 10285857,Janet_100834001,Positive,2
+(L) 11193227,Janet_100834001,Positive,2
+(L) 14863133,Janet_100834001,Positive,2
+(L) 14863133,Janet_100834001,Positive,2
+(L) 15989240,Janet_100834001,Positive,2
+(L) 16817510,Janet_100834001,Positive,2
+(L) 16817510,Janet_100834001,Positive,2
+(L) 18082235,Janet_100834001,Positive,2
+(L) 19852401,Janet_100834001,Positive,2
+(L) 21816636,Janet_100834001,Positive,2
+(L) 21816636,Janet_100834001,Negative,1
+(L) 23422413,Janet_100834001,Negative,1
+(L) 25753713,Janet_100834001,Positive,2
+(L) 28351491,Janet_100834001,Positive,2
+(L) 28351491,Janet_100834001,Negative,1
+(L) 14224564,Shirley & J_21234371,Negative,1
+(L) 14224677,Shirley & J_21234371,Positive,2
+(L) 14224677,Shirley & J_21234371,Negative,1
+(L) 15959128,Shirley & J_21234371,Positive,2
+(L) 16756012,Shirley & J_21234371,Positive,2
+(L) 20458949,Shirley & J_21234371,Positive,2
+(L) 20458949,Shirley & J_21234371,Positive,2
+(L) 21281131,Shirley & J_21234371,Negative,1
+(L) 23312725,Shirley & J_21234371,Negative,1
+(L) 23717363,Shirley & J_21234371,Positive,2
+(L) 24289304,Shirley & J_21234371,Positive,2
+(L) 24412630,Shirley & J_21234371,Negative,1
+(L) 24412630,Shirley & J_21234371,Positive,2
+(L) 24642791,Shirley & J_21234371,Positive,2
+(L) 25016203,Shirley & J_21234371,Negative,1
+(L) 25016203,Shirley & J_21234371,Negative,1
+(L) 27207671,Shirley & J_21234371,Positive,2
+(L) 27207671,Shirley & J_21234371,Negative,1
+(L) 27344779,Shirley & J_21234371,Positive,2
+(L) 27840534,Shirley & J_21234371,Positive,2
+(L) 27858934,Shirley & J_21234371,Positive,2
+(L) 4933784,Stephen_168806289,Positive,2
+(L) 9511634,Stephen_168806289,Negative,1
+(L) 11595579,Stephen_168806289,Negative,1
+(L) 12852445,Stephen_168806289,Positive,2
+(L) 16277847,Stephen_168806289,Positive,2
+(L) 16286231,Stephen_168806289,Positive,2
+(L) 16286231,Stephen_168806289,Positive,2
+(L) 16978328,Stephen_168806289,Negative,1
+(L) 18366585,Stephen_168806289,Positive,2
+(L) 19065568,Stephen_168806289,Positive,2
+(L) 20004779,Stephen_168806289,Positive,2
+(L) 20137332,Stephen_168806289,Positive,2
+(L) 20137332,Stephen_168806289,Positive,2
+(L) 22009907,Stephen_168806289,Negative,1
+(L) 22048785,Stephen_168806289,Negative,1
+(L) 22146484,Stephen_168806289,Positive,2
+(L) 22235176,Stephen_168806289,Positive,2
+(L) 22322456,Stephen_168806289,Negative,1
+(L) 22589788,Stephen_168806289,Positive,2
+(L) 23999472,Stephen_168806289,Positive,2
+(L) 24999766,Stephen_168806289,Positive,2
+(L) 11480581,Ashley_132602827,Positive,2
+(L) 12434800,Ashley_132602827,Negative,1
+(L) 12434800,Ashley_132602827,Negative,1
+(L) 12434800,Ashley_132602827,Negative,1
+(L) 12434800,Ashley_132602827,Negative,1
+(L) 12434800,Ashley_132602827,Negative,1
+(L) 12434800,Ashley_132602827,Positive,2
+(L) 12506551,Ashley_132602827,Negative,1
+(L) 12814872,Ashley_132602827,Negative,1
+(L) 12839487,Ashley_132602827,Positive,2
+(L) 12839487,Ashley_132602827,Negative,1
+(L) 12839487,Ashley_132602827,Positive,2
+(L) 12839487,Ashley_132602827,Negative,1
+(L) 12839487,Ashley_132602827,Negative,1
+(L) 12839487,Ashley_132602827,Positive,2
+(L) 12839487,Ashley_132602827,Positive,2
+(L) 12839487,Ashley_132602827,Negative,1
+(L) 18009761,Ashley_132602827,Negative,1
+(L) 25459716,Ashley_132602827,Negative,1
+(L) 27744611,Ashley_132602827,Negative,1
+(L) 27744611,Ashley_132602827,Negative,1
+(L) 5366904,Owen_161091188,Negative,1
+(L) 12917491,Owen_161091188,Positive,2
+(L) 13239461,Owen_161091188,Positive,2
+(L) 13239461,Owen_161091188,Negative,1
+(L) 13239461,Owen_161091188,Negative,1
+(L) 15092541,Owen_161091188,Negative,1
+(L) 15721526,Owen_161091188,Negative,1
+(L) 16046333,Owen_161091188,Negative,1
+(L) 16502305,Owen_161091188,Negative,1
+(L) 17109941,Owen_161091188,Negative,1
+(L) 19388564,Owen_161091188,Positive,2
+(L) 20017865,Owen_161091188,Positive,2
+(L) 21817048,Owen_161091188,Negative,1
+(L) 22088661,Owen_161091188,Negative,1
+(L) 22221177,Owen_161091188,Negative,1
+(L) 22297221,Owen_161091188,Negative,1
+(L) 22326011,Owen_161091188,Positive,2
+(L) 22558475,Owen_161091188,Negative,1
+(L) 25378101,Owen_161091188,Negative,1
+(L) 26108345,Owen_161091188,Negative,1
+(L) 27823948,Owen_161091188,Negative,1
+(L) 7132426,Tiffany_43195788,Positive,2
+(L) 9783343,Tiffany_43195788,Negative,1
+(L) 10732379,Tiffany_43195788,Positive,2
+(L) 10732560,Tiffany_43195788,Negative,1
+(L) 10839085,Tiffany_43195788,Positive,2
+(L) 12799579,Tiffany_43195788,Negative,1
+(L) 14030846,Tiffany_43195788,Negative,1
+(L) 15634591,Tiffany_43195788,Negative,1
+(L) 16136517,Tiffany_43195788,Negative,1
+(L) 16562839,Tiffany_43195788,Negative,1
+(L) 16562839,Tiffany_43195788,Negative,1
+(L) 16562839,Tiffany_43195788,Negative,1
+(L) 16964637,Tiffany_43195788,Negative,1
+(L) 18558600,Tiffany_43195788,Positive,2
+(L) 19742639,Tiffany_43195788,Negative,1
+(L) 22065141,Tiffany_43195788,Negative,1
+(L) 22540890,Tiffany_43195788,Negative,1
+(L) 23068546,Tiffany_43195788,Negative,1
+(L) 23773079,Tiffany_43195788,Negative,1
+(L) 24275629,Tiffany_43195788,Negative,1
+(L) 24551148,Tiffany_43195788,Positive,2
+(L) 837794,Tim_15626511,Positive,2
+(L) 1060458,Tim_15626511,Negative,1
+(L) 1060458,Tim_15626511,Negative,1
+(L) 1230182,Tim_15626511,Positive,2
+(L) 2244154,Tim_15626511,Positive,2
+(L) 2244154,Tim_15626511,Negative,1
+(L) 2244154,Tim_15626511,Negative,1
+(L) 2244154,Tim_15626511,Positive,2
+(L) 2244154,Tim_15626511,Positive,2
+(L) 6677630,Tim_15626511,Positive,2
+(L) 10840037,Tim_15626511,Negative,1
+(L) 10995325,Tim_15626511,Positive,2
+(L) 10995325,Tim_15626511,Negative,1
+(L) 10995325,Tim_15626511,Negative,1
+(L) 11515203,Tim_15626511,Negative,1
+(L) 13360939,Tim_15626511,Positive,2
+(L) 14622440,Tim_15626511,Negative,1
+(L) 14622440,Tim_15626511,Positive,2
+(L) 18081448,Tim_15626511,Negative,1
+(L) 18081448,Tim_15626511,Negative,1
+(L) 18081448,Tim_15626511,Negative,1
+(L) 4184965,Natalie_7942848,Negative,1
+(L) 4184965,Natalie_7942848,Negative,1
+(L) 9699920,Natalie_7942848,Negative,1
+(L) 9699920,Natalie_7942848,Positive,2
+(L) 10111445,Natalie_7942848,Negative,1
+(L) 11209443,Natalie_7942848,Negative,1
+(L) 11285620,Natalie_7942848,Negative,1
+(L) 12660130,Natalie_7942848,Negative,1
+(L) 13852692,Natalie_7942848,Positive,2
+(L) 16692404,Natalie_7942848,Negative,1
+(L) 16898212,Natalie_7942848,Positive,2
+(L) 16975413,Natalie_7942848,Positive,2
+(L) 17439901,Natalie_7942848,Negative,1
+(L) 18363483,Natalie_7942848,Positive,2
+(L) 20447092,Natalie_7942848,Negative,1
+(L) 21832000,Natalie_7942848,Negative,1
+(L) 22284793,Natalie_7942848,Positive,2
+(L) 22458746,Natalie_7942848,Positive,2
+(L) 23611535,Natalie_7942848,Positive,2
+(L) 25378101,Natalie_7942848,Positive,2
+(L) 820583,Philip_131393623,Negative,1
+(L) 10788811,Philip_131393623,Negative,1
+(L) 11662571,Philip_131393623,Negative,1
+(L) 11662571,Philip_131393623,Positive,2
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Positive,2
+(L) 12897385,Philip_131393623,Positive,2
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Negative,1
+(L) 12897385,Philip_131393623,Negative,1
+(L) 13548883,Philip_131393623,Negative,1
+(L) 14616342,Philip_131393623,Positive,2
+(L) 18634135,Philip_131393623,Positive,2
+(L) 19863981,Philip_131393623,Positive,2
+(L) 21504549,Philip_131393623,Negative,1
+(L) 21952924,Philip_131393623,Positive,2
+(L) 24645864,Philip_131393623,Negative,1
+(L) 259857,Andrew_81208312,Positive,2
+(L) 4448723,Andrew_81208312,Negative,1
+(L) 4448723,Andrew_81208312,Positive,2
+(L) 5526079,Andrew_81208312,Negative,1
+(L) 5526079,Andrew_81208312,Negative,1
+(L) 11148977,Andrew_81208312,Negative,1
+(L) 11148977,Andrew_81208312,Negative,1
+(L) 11148977,Andrew_81208312,Positive,2
+(L) 11148977,Andrew_81208312,Negative,1
+(L) 11148977,Andrew_81208312,Negative,1
+(L) 11480581,Andrew_81208312,Positive,2
+(L) 13117717,Andrew_81208312,Negative,1
+(L) 16677226,Andrew_81208312,Positive,2
+(L) 16887125,Andrew_81208312,Negative,1
+(L) 21270439,Andrew_81208312,Negative,1
+(L) 21270439,Andrew_81208312,Negative,1
+(L) 23529310,Andrew_81208312,Negative,1
+(L) 23529310,Andrew_81208312,Negative,1
+(L) 25403814,Andrew_81208312,Negative,1
+(L) 28558210,Andrew_81208312,Positive,2
+(L) 11717378,James_93426040,Negative,1
+(L) 14603132,James_93426040,Negative,1
+(L) 14603132,James_93426040,Positive,2
+(L) 14603132,James_93426040,Positive,2
+(L) 14603132,James_93426040,Negative,1
+(L) 15327450,James_93426040,Positive,2
+(L) 15327450,James_93426040,Negative,1
+(L) 15359826,James_93426040,Positive,2
+(L) 15359826,James_93426040,Negative,1
+(L) 16007568,James_93426040,Positive,2
+(L) 16007568,James_93426040,Positive,2
+(L) 16007568,James_93426040,Positive,2
+(L) 20372066,James_93426040,Positive,2
+(L) 20372066,James_93426040,Negative,1
+(L) 20372066,James_93426040,Positive,2
+(L) 20372066,James_93426040,Negative,1
+(L) 21571014,James_93426040,Positive,2
+(L) 22020768,James_93426040,Negative,1
+(L) 22020768,James_93426040,Positive,2
+(L) 23045093,James_93426040,Negative,1
+(L) 7680007,Vaughn_27752032,Negative,1
+(L) 8955421,Vaughn_27752032,Positive,2
+(L) 8955421,Vaughn_27752032,Positive,2
+(L) 8955421,Vaughn_27752032,Negative,1
+(L) 9265665,Vaughn_27752032,Positive,2
+(L) 12212834,Vaughn_27752032,Positive,2
+(L) 14521064,Vaughn_27752032,Negative,1
+(L) 14956501,Vaughn_27752032,Positive,2
+(L) 15313711,Vaughn_27752032,Positive,2
+(L) 15317060,Vaughn_27752032,Negative,1
+(L) 16089228,Vaughn_27752032,Negative,1
+(L) 17943925,Vaughn_27752032,Negative,1
+(L) 21362838,Vaughn_27752032,Positive,2
+(L) 21684408,Vaughn_27752032,Positive,2
+(L) 22677306,Vaughn_27752032,Negative,1
+(L) 23022325,Vaughn_27752032,Positive,2
+(L) 23398105,Vaughn_27752032,Positive,2
+(L) 23618765,Vaughn_27752032,Positive,2
+(L) 25058233,Vaughn_27752032,Negative,1
+(L) 26348729,Vaughn_27752032,Negative,1
+(L) 1480417,Matthew_83195593,Negative,1
+(L) 1856519,Matthew_83195593,Positive,2
+(L) 1996254,Matthew_83195593,Negative,1
+(L) 5981263,Matthew_83195593,Negative,1
+(L) 6362810,Matthew_83195593,Negative,1
+(L) 7042470,Matthew_83195593,Negative,1
+(L) 8806530,Matthew_83195593,Positive,2
+(L) 13848771,Matthew_83195593,Positive,2
+(L) 14034076,Matthew_83195593,Negative,1
+(L) 14076870,Matthew_83195593,Negative,1
+(L) 14672791,Matthew_83195593,Positive,2
+(L) 15041955,Matthew_83195593,Negative,1
+(L) 16258146,Matthew_83195593,Negative,1
+(L) 16258146,Matthew_83195593,Positive,2
+(L) 16258146,Matthew_83195593,Negative,1
+(L) 16713138,Matthew_83195593,Positive,2
+(L) 18112846,Matthew_83195593,Negative,1
+(L) 18112846,Matthew_83195593,Negative,1
+(L) 18142848,Matthew_83195593,Negative,1
+(L) 26173356,Matthew_83195593,Negative,1
+(L) 20865,Alison_6137657,Positive,2
+(L) 276617,Alison_6137657,Positive,2
+(L) 318591,Alison_6137657,Positive,2
+(L) 318591,Alison_6137657,Positive,2
+(L) 334817,Alison_6137657,Positive,2
+(L) 619474,Alison_6137657,Negative,1
+(L) 783928,Alison_6137657,Positive,2
+(L) 783928,Alison_6137657,Negative,1
+(L) 783928,Alison_6137657,Positive,2
+(L) 783928,Alison_6137657,Negative,1
+(L) 1895251,Alison_6137657,Negative,1
+(L) 2548068,Alison_6137657,Negative,1
+(L) 2749926,Alison_6137657,Negative,1
+(L) 6202366,Alison_6137657,Negative,1
+(L) 8107268,Alison_6137657,Positive,2
+(L) 9476881,Alison_6137657,Negative,1
+(L) 15301914,Alison_6137657,Positive,2
+(L) 18829606,Alison_6137657,Positive,2
+(L) 19170060,Alison_6137657,Negative,1
+(L) 20456284,Alison_6137657,Positive,2
+(L) 2821454,Graham_29779693,Negative,1
+(L) 2838442,Graham_29779693,Positive,2
+(L) 12256510,Graham_29779693,Positive,2
+(L) 12256510,Graham_29779693,Positive,2
+(L) 12328180,Graham_29779693,Positive,2
+(L) 12395172,Graham_29779693,Positive,2
+(L) 14029665,Graham_29779693,Positive,2
+(L) 15153632,Graham_29779693,Negative,1
+(L) 15153632,Graham_29779693,Positive,2
+(L) 18112846,Graham_29779693,Positive,2
+(L) 19025923,Graham_29779693,Positive,2
+(L) 19895602,Graham_29779693,Positive,2
+(L) 20141478,Graham_29779693,Positive,2
+(L) 20677795,Graham_29779693,Positive,2
+(L) 21391415,Graham_29779693,Negative,1
+(L) 21925294,Graham_29779693,Negative,1
+(L) 23582895,Graham_29779693,Positive,2
+(L) 23688725,Graham_29779693,Positive,2
+(L) 29949029,Graham_29779693,Positive,2
+(L) 30018432,Graham_29779693,Positive,2
+(L) 3265015,Derek_118614440,Negative,1
+(L) 3265015,Derek_118614440,Negative,1
+(L) 4559006,Derek_118614440,Negative,1
+(L) 7700641,Derek_118614440,Positive,2
+(L) 7902972,Derek_118614440,Negative,1
+(L) 12395172,Derek_118614440,Negative,1
+(L) 15101580,Derek_118614440,Positive,2
+(L) 16817510,Derek_118614440,Negative,1
+(L) 16817510,Derek_118614440,Positive,2
+(L) 16817510,Derek_118614440,Negative,1
+(L) 16817510,Derek_118614440,Positive,2
+(L) 17945015,Derek_118614440,Positive,2
+(L) 19895602,Derek_118614440,Positive,2
+(L) 21449465,Derek_118614440,Negative,1
+(L) 23312135,Derek_118614440,Negative,1
+(L) 24403396,Derek_118614440,Negative,1
+(L) 24523537,Derek_118614440,Negative,1
+(L) 25465230,Derek_118614440,Positive,2
+(L) 26042114,Derek_118614440,Negative,1
+(L) 28696186,Derek_118614440,Positive,2
+(L) 1877472,Ross_68805275,Negative,1
+(L) 7368072,Ross_68805275,Positive,2
+(L) 9219104,Ross_68805275,Negative,1
+(L) 9811835,Ross_68805275,Negative,1
+(L) 11806617,Ross_68805275,Positive,2
+(L) 11932557,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Positive,2
+(L) 12114078,Ross_68805275,Positive,2
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Positive,2
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Negative,1
+(L) 12114078,Ross_68805275,Positive,2
+(L) 16580806,Ross_68805275,Positive,2
+(L) 16580806,Ross_68805275,Negative,1
+(L) 20140237,Ross_68805275,Negative,1
+(L) 12057230,Mel & Richard_30019772,Negative,1
+(L) 20606265,Mel & Richard_30019772,Positive,2
+(L) 20606265,Mel & Richard_30019772,Negative,1
+(L) 20606265,Mel & Richard_30019772,Negative,1
+(L) 20606265,Mel & Richard_30019772,Negative,1
+(L) 23844807,Mel & Richard_30019772,Positive,2
+(L) 23844807,Mel & Richard_30019772,Positive,2
+(L) 23844807,Mel & Richard_30019772,Negative,1
+(L) 23844807,Mel & Richard_30019772,Negative,1
+(L) 25926651,Mel & Richard_30019772,Positive,2
+(L) 26669688,Mel & Richard_30019772,Positive,2
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Positive,2
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Positive,2
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Negative,1
+(L) 26669688,Mel & Richard_30019772,Positive,2
