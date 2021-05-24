@@ -23,7 +23,7 @@ One main problem with research citation data, is that authors can have multiple 
 
 Quick view of the two types of networks our project has investigated and develop/tested our random forest model on.
 
-![Optional Text](./img/img_zhang_nw.png)<img src="./img/img_zhang_nw.png">
+<img src="./img/img_zhang_nw.png" width="300" height="300">
 
 
 
