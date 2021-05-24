@@ -27,7 +27,7 @@ Image 1 - Pollution published papers co-authorships
 
 Image 2 - Professor Zhang published papers co-authorships
 
-<img src="./img/img_zhang_nw.png" width="400" height="400">        <img src="./img/img_zhang_nw.png" width="400" height="400">
+<img src="./img/sina_coauthor_nw.png" width="600" height="600">
 
 
 
