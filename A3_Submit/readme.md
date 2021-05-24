@@ -12,7 +12,7 @@ Our group, **The Invincibles**, are undertaking two tasks for our SINA group pro
 
 • Algorithm - A scalable implementation of an algorithm for processing massive graphs that solves real problems.
 
-We have analysed 2 main research published paper networks, and created a random forest algorithm to predict future researcher relationships. We found that the 3 networks encountered different challenges in cleaning, understanding and preparing the data for modelling.
+We have analysed 2 main research published paper networks, and created a random forest algorithm to predict future researcher relationships. We found that the 2 networks encountered different challenges in cleaning, understanding and preparing the data for modelling.
 
 1. Pollution papers - there were many non-connected networks in the relationships between papers and co-authors, which provided less data for generating useful features.
 2. Professor Zhang papers - was a very well-connected network between papers and co-authors, that allowed for more meaningful features to be engineered for the model
